@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Avinesh-2\\Azure Sample App\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj": {}
+    "C:\\Temp\\testazureapp\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Avinesh-2\\Azure Sample App\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj": {
+    "C:\\Temp\\testazureapp\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Avinesh-2\\Azure Sample App\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj",
+        "projectUniqueName": "C:\\Temp\\testazureapp\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj",
         "projectName": "AvineshWebApplication",
-        "projectPath": "C:\\Avinesh-2\\Azure Sample App\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj",
+        "projectPath": "C:\\Temp\\testazureapp\\myazurewebapp\\AvineshWebApplication\\AvineshWebApplication.csproj",
         "packagesPath": "C:\\Users\\A743039\\.nuget\\packages\\",
-        "outputPath": "C:\\Avinesh-2\\Azure Sample App\\myazurewebapp\\AvineshWebApplication\\obj\\",
+        "outputPath": "C:\\Temp\\testazureapp\\myazurewebapp\\AvineshWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
